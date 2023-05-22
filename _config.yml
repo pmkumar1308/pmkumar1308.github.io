@@ -1,14 +1,14 @@
 # Site
 title:              Muthukumar Pandaram
 bio:                'A versatile and analytical student pursuing a Masters degree in Computational Neuroscience'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "My peronal profile and blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/Muthukumar_pic.jpg'
 background:         'assets/img/neuro_robo.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://pmkumar1308.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -40,9 +40,9 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            pmkumar1308
 #facebook:           username
-github-url:         https://github.com/pmkumar1308
+github-url:         pmkumar1308
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          https://www.linkedin.com/in/muthukumarpandaram/
+linkedin:          muthukumarpandaram
 #xing:              username
 #instagram:          username
 #lastfm:            username
