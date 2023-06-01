@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Context based classification using a bandit modulated feed forward classifier"
-date: 2022-05-22
+date: 2022-09-22
 excerpt: "Lab rotation 2 details"
 tags: [lab rotation]
 
