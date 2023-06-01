@@ -9,7 +9,7 @@ comments: false
 A versatile and analytical Master’s student in Computational Neuroscience with over 2 years of
 research experience gained through working at different research labs across the world. Possess a
 Bachelor’s in Mechanical Engineering with demonstrated skills in control, sensor interfacing and
-machine learning techniques. Passionate about working at the intersection of Neuroscience and AI.
+machine learning techniques. Passionate about working at the intersection of Neuroscience, AI and Robotics.
 
 ## Interests
 * Robotics
