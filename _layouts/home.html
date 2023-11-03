@@ -47,6 +47,23 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/Pandaram_CV.pdf">
                          CV
                          </a>
+                         <!-- Google Calendar Appointment Scheduling begin -->
+                        <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+                        <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+                        <script>
+                        (function() {
+                            var target = document.currentScript;
+                            window.addEventListener('load', function() {
+                                calendar.schedulingButton.load({
+                                url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ25nH4LOnNeEyqCdI9iPqsHMUA9t8zl2DB4DiSpbPBKdqG2MlgpDssSQZabu1D0mk6TYxkFx2KU?gv=true',
+                                color: '#039BE5',
+                                label: 'Book an appointment',
+                                target,
+                                });
+                        });
+                        })();
+                        </script>
+                        <!-- end Google Calendar Appointment Scheduling -->
                  </h3>
             </div>
         </div>
