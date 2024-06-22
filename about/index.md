@@ -6,8 +6,8 @@ date: 2023-05-22
 comments: false
 ---
     
-A versatile and analytical software engineer with a Master’s degree in Computational Neuroscience over 2 years of
-research experience gained through working at different research labs and companies across the world. Possess a
+A versatile and analytical software engineer with a Master’s degree in Computational Neuroscience and over 2 years of
+research and development experience gained through working at different research labs and companies across the world. Possess a
 Bachelor’s in Mechanical Engineering with demonstrated skills in robotics control, sensor interfacing and
 machine learning techniques. Passionate about working at the intersection of Neuroscience, AI and Robotics.
 
